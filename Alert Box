@@ -3,7 +3,7 @@
 <title>Alert boxes</title>
 </head>
 <body>
-<h1>Alert in java</h1>
+<h1>Alert in javascript</h1>
 <script>
 alert("hello! My name is pawan");
 </script>
